@@ -4,7 +4,7 @@ código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Ex05 {
+public class S04Ex05 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);

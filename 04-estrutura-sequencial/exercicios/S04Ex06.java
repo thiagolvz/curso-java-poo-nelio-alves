@@ -9,7 +9,7 @@ d) a área do quadrado que tem lado B.
 import java.util.Scanner;
 import java.util.Locale;
 
-public class Ex06 {
+public class S04Ex06 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);

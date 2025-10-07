@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/04-estrutura-sequencial/exercicios" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04-estrutura-sequencial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-estrutura-condicional/exercicios" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
