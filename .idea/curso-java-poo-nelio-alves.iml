@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/04-estrutura-sequencial/exercicios" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04-estrutura-sequencial/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05-estrutura-condicional/exercicios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-estruturas-repetitivas/exercicios-for" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-estruturas-repetitivas/exercicios-while" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
