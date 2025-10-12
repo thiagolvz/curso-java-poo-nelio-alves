@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/08-introducao-a-poo/exercicio-2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08-introducao-a-poo/exercicio-3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08-introducao-a-poo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-construtores-e-encapsulamento/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
