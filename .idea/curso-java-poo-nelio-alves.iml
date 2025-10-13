@@ -13,6 +13,17 @@
       <sourceFolder url="file://$MODULE_DIR$/08-introducao-a-poo/exercicio-3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08-introducao-a-poo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09-construtores-e-encapsulamento/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/alturas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/negativos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/soma_vetor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/abaixo_da_media" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/aprovados" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/dados_pessoas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/maior_posicao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/mais_velho" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/media_pares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/numeros_pares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/soma_vetores" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
