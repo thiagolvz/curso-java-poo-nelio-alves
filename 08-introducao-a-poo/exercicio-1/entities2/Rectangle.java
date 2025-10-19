@@ -1,4 +1,4 @@
-package entities;
+package entities2;
 
 public class Rectangle {
     public double width;

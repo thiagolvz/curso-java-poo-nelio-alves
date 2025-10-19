@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/numeros_pares" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-vetores/soma_vetores" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/desafios/pensionato" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-arrays-e-listas/exercicios-listas/exercicio-fixacao" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

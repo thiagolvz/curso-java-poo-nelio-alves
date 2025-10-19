@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/abaixo_da_media" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/alturas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aprovados" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dados_pessoas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/maior_posicao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mais_velho" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/media_pares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/negativos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/numeros_pares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/soma_vetor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/soma_vetores" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -6,7 +6,7 @@ Você deve criar uma classe Student para resolver este problema. */
 
 package application;
 
-import entities.Student;
+import entities2.Student;
 import java.util.Locale;
 import java.util.Scanner;
 
