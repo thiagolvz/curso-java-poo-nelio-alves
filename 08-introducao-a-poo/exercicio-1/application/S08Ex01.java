@@ -4,7 +4,7 @@ Usar uma classe como mostrado no projeto ao lado. */
 
 package application;
 
-import entities2.Rectangle;
+import entities.Rectangle;
 import java.util.Locale;
 import java.util.Scanner;
 

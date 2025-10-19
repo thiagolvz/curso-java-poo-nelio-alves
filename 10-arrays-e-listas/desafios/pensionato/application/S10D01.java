@@ -5,7 +5,7 @@ package application;
 
 import java.util.Locale;
 import java.util.Scanner;
-import entities2.Estudante;
+import entities.Estudante;
 
 public class S10D01 {
     public static void main(String[] args) {
